@@ -6,7 +6,7 @@ Designed and developed entirely by me.
 
 **✨ Features**
 
-🎭 Mood-based discovery — choose a mood and get curated indie tracks
+🎭 Mood-based discovery - choose a mood and get curated indie tracks
 
 🎵 Custom music player with play / pause, progress bar, and time display
 
