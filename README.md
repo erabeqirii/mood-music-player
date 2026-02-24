@@ -4,7 +4,7 @@ A mood-based indie music discovery app built with React that fetches playlists f
 
 Designed and developed entirely by me.
 
-✨ Features
+✨ Features:
 
 🎭 Mood-based discovery — choose a mood and get curated indie tracks
 
@@ -26,7 +26,7 @@ CSS / SCSS animations
 
 Component-based architecture
 
-🚀 Getting Started
+🚀 Getting Started -
 
 Install dependencies:
 
@@ -35,7 +35,8 @@ npm install
 Run the app:
 
 npm start
-🎯 What I focused on
+
+🎯 What I focused on:
 
 This project was mainly built to practice:
 
