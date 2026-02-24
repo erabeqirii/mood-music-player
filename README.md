@@ -1,70 +1,53 @@
-# Getting Started with Create React App
+🎧 Mood-Based Indie Music Player
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A mood-based indie music discovery app built with React that fetches playlists from the Jamendo API and delivers an immersive listening experience through custom animations and a vinyl-style music player.
 
-## Available Scripts
+Designed and developed entirely by me.
 
-In the project directory, you can run:
+✨ Features
 
-### `npm start`
+🎭 Mood-based discovery — choose a mood and get curated indie tracks
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+🎵 Custom music player with play / pause, progress bar, and time display
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+💿 Vinyl-style animated player for a cozy immersive feel
 
-### `npm test`
+🖼 Fallback album artwork when tracks don’t include images
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+🎨 Retro-inspired UI with cute interactive details
 
-### `npm run build`
+🛠 Tech Stack
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+React (Hooks)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Jamendo API
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+CSS / SCSS animations
 
-### `npm run eject`
+Component-based architecture
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+🚀 Getting Started
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Install dependencies:
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+npm install
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Run the app:
 
-## Learn More
+npm start
+🎯 What I focused on
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+This project was mainly built to practice:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+API integration
 
-### Code Splitting
+State management across multiple UI views
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Creating a custom audio player instead of using the browser default
 
-### Analyzing the Bundle Size
+Building a cohesive aesthetic and interactive feel
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-### Making a Progressive Web App
+💖 Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Designed & developed by Era
