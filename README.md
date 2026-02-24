@@ -1,10 +1,10 @@
-🎧 Mood-Based Indie Music Player
+**🎧 Mood-Based Indie Music Player**
 
 A mood-based indie music discovery app built with React that fetches playlists from the Jamendo API and delivers an immersive listening experience through custom animations and a vinyl-style music player.
 
 Designed and developed entirely by me.
 
-✨ Features:
+**✨ Features**
 
 🎭 Mood-based discovery — choose a mood and get curated indie tracks
 
@@ -16,7 +16,7 @@ Designed and developed entirely by me.
 
 🎨 Retro-inspired UI with cute interactive details
 
-🛠 Tech Stack
+**🛠 Tech Stack**
 
 React (Hooks)
 
@@ -26,7 +26,7 @@ CSS / SCSS animations
 
 Component-based architecture
 
-🚀 Getting Started -
+**🚀 Getting Started**
 
 Install dependencies:
 
@@ -36,7 +36,7 @@ Run the app:
 
 npm start
 
-🎯 What I focused on:
+**🎯 What I focused on**
 
 This project was mainly built to practice:
 
@@ -49,6 +49,6 @@ Creating a custom audio player instead of using the browser default
 Building a cohesive aesthetic and interactive feel
 
 
-💖 Author
+**💖 Author**
 
 Designed & developed by Era
