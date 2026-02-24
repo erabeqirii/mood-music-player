@@ -1,0 +1,25 @@
+.music-play {
+  color: #ffffff;
+  padding: 2%;
+  text-align: center;
+}
+.description {
+    text-align: center;
+}
+.button-back {
+    background-color: transparent;
+    border: none;
+    font-size: 13px;
+    font-family: monospace;
+    cursor: pointer;
+    color: #ffffff;
+}
+
+@media (max-width: 600px) {
+.mood-buttons-wrapper {
+    flex-direction: column;
+}
+.description {
+    margin: 10%;
+}
+}

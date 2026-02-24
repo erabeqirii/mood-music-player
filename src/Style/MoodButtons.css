@@ -1,0 +1,52 @@
+.mood-buttons {
+    h2 {
+        text-align: center;
+    }
+}
+.mood-buttons-wrapper {
+    display: flex;
+    gap: 50px;
+    margin-top: 5%;
+    align-items: center;
+    justify-content: center;
+    button {
+        border: none;
+        font-size: 35px;
+        cursor: pointer;
+    }
+}
+.mood-container {
+    display: flex;
+    flex-direction: column;
+    img {
+        width: 170px;
+        height: 170px;
+        image-rendering: pixelated;
+        transition: filter 0.3s;
+    }
+}
+
+.pixel-rpg {
+  background-color: transparent;
+  color: white;
+  font-family: monospace;
+}
+
+.pixel-rpg:hover img {
+    animation: gameJump 0.38s ease forwards;
+}
+
+@keyframes gameJump {
+  0%   { transform: translateY(0); }
+  40%  { transform: translateY(-14px); }
+  70%  { transform: translateY(-10px); }
+  100% { transform: translateY(-12px); }
+}
+
+.pixel-rpg:hover img {
+    filter: drop-shadow(0 6px 0 rgba(0,0,0,0.6));
+}
+.pixel-rpg:active {
+    transform: scale(0.95);
+}
+
