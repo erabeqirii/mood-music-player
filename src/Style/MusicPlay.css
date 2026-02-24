@@ -15,11 +15,12 @@
     color: #ffffff;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 1024px) {
 .mood-buttons-wrapper {
     flex-direction: column;
 }
 .description {
     margin: 10%;
 }
+
 }
