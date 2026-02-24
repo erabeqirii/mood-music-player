@@ -28,11 +28,11 @@ function App() {
 {tracks.length > 0 && !selectedTrack && (
   <TrackList
     tracks={tracks}
-    mood={selectedMood}          // <-- pass the mood
+    mood={selectedMood}          
     onSelectTrack={setSelectedTrack}
     onBack={() => {
       setTracks([]);
-      setSelectedMood(null);      // reset mood when going back
+      setSelectedMood(null);   
     }}
   />
 )}
