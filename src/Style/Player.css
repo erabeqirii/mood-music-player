@@ -5,7 +5,6 @@
     align-items: center;
 }
 
-/* center progress area */
 .audio-wrapper {
     display: flex;
     justify-content: center;
@@ -125,7 +124,7 @@
 }
 
 
-@media (max-width: 600px) {
+@media (max-width: 1024px) {
   .playing-song {
     max-width: 320px;
     margin-top: 5%;
@@ -178,3 +177,4 @@
   50%{ height:16px }
 
 }
+
