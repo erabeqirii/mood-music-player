@@ -2,7 +2,6 @@
 
 A mood-based indie music discovery app built with React that fetches playlists from the Jamendo API and delivers an immersive listening experience through custom animations and a vinyl-style music player.
 
-Designed and developed entirely by me.
 
 **✨ Features**
 
@@ -51,4 +50,4 @@ Building a cohesive aesthetic and interactive feel
 
 **💖 Author**
 
-Designed & developed by Era
+Designed & developed by me
