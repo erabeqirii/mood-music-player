@@ -1,4 +1,4 @@
-**🎧 Mood-Based Indie Music Player**
+# 🎧 Mood-Based Indie Music Player
 
 A mood-based indie music discovery app built with React that fetches playlists from the Jamendo API and delivers an immersive listening experience through custom animations and a vinyl-style music player.
 
