@@ -15,6 +15,7 @@ A mood-based indie music discovery app built with React that fetches playlists f
 
 🎨 Retro-inspired UI with cute interactive details
 
+
 **🛠 Tech Stack**
 
 • React (Hooks)
@@ -25,6 +26,7 @@ A mood-based indie music discovery app built with React that fetches playlists f
 
 • Component-based architecture
 
+
 **🚀 Getting Started**
 
 Install dependencies:
@@ -34,6 +36,7 @@ npm install
 Run the app:
 
 npm start
+
 
 **🎯 What I focused on**
 
