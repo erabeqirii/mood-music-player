@@ -3,7 +3,7 @@
 A mood-based indie music discovery app built with React that fetches playlists from the Jamendo API and delivers an immersive listening experience through custom animations and a vinyl-style music player.
 
 
-**✨ Features**
+**✨ FEATURES**
 
 🎭 Mood-based discovery - choose a mood and get curated indie tracks
 
@@ -17,7 +17,7 @@ A mood-based indie music discovery app built with React that fetches playlists f
 
 
 
-**🛠 Tech Stack**
+**🛠 TECH STACK**
 
 • React (Hooks)
 
@@ -29,7 +29,7 @@ A mood-based indie music discovery app built with React that fetches playlists f
 
 
 
-**🚀 Getting Started**
+**🚀 GETTING STARTED**
 
 Install dependencies:
 
@@ -41,7 +41,7 @@ npm start
 
 
 
-**🎯 What I focused on**
+**🎯 WHAT I FOCUSED ON**
 
 This project was mainly built to practice:
 
@@ -55,6 +55,6 @@ Building a cohesive aesthetic and interactive feel
 
 
 
-**💖 Author**
+**💖 AUTHOR**
 
 Designed & developed by me
