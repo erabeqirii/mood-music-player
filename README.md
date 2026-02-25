@@ -17,13 +17,13 @@ A mood-based indie music discovery app built with React that fetches playlists f
 
 **🛠 Tech Stack**
 
-React (Hooks)
+• React (Hooks)
 
-Jamendo API
+• Jamendo API
 
-CSS / SCSS animations
+• CSS animations
 
-Component-based architecture
+• Component-based architecture
 
 **🚀 Getting Started**
 
